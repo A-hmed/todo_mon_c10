@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746756598356",
+    "project_id": "todo-mon-c10",
+    "storage_bucket": "todo-mon-c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746756598356:android:67cd8dd9368f56848e5bc1",
+        "android_client_info": {
+          "package_name": "com.example.todo_mon_c10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQYhykBPmsozzCjmBbskRDVaalE3atgWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
